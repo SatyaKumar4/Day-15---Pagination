@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+}
+
+.div1{
+    background-color: rgb(255, 177, 177);
+}
+.div2{
+    margin: 20px;
+    padding: 20px;
+     ;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(227, 227, 227);   
+}
